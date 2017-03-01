@@ -31,3 +31,6 @@ const TYPE_REFERRER_AD_YAHOO_REMARKETING = 405; // adWords yahoo remarketing
 const TYPE_REFERRER_AD_GOOGLE_REMARKETING = 406; // adWords google remarketing
 const TYPE_REFERRER_NONE = 999; // referrer none
 ```
+
+## License
+MIT
