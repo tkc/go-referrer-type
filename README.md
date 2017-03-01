@@ -1,7 +1,7 @@
 # go-referrer-type
+determine of url referrer type.
 
-
-## usage
+## Usage
 
 ```go
 var referrerUrl = "https://www.google.co.jp/"
