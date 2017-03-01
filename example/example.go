@@ -1,7 +1,6 @@
 package main
 
 import (
-	"log"
 	"github.com/tkc/go-referrer-type"
 )
 
@@ -14,7 +13,6 @@ func main() {
 
 	if err == nil {
 		res := r.GetType()
-		log.Print(res)
 		if res == go_referrer_type.TYPE_REFERRER_ORGANIC_SEARCH_GOOGLE {
 			log.Print("TYPE_REFERRER_ORGANIC_SEARCH_GOOGLE")
 		}
